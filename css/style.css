@@ -270,7 +270,7 @@ a:focus {
   top: 0;
   left: 0;
   background-color: black;
-  background-color: rgba(10, 32, 80, 0.95);
+  background-color: #228B22;
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
